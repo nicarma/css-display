@@ -1,0 +1,16 @@
+h1 {
+  background-color: red;
+  width: 20%;
+  display: inline-block;
+}
+
+p {
+  background-color: blue;
+  width: 20%;
+  display: inline-block;
+}
+
+img {
+  width: 50%;
+  background-color: blue;
+}
